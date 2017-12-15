@@ -1,0 +1,30 @@
+body {
+	background-color: #000000;
+	text-align: center;
+}
+
+canvas {
+	background-color: #ffffff;
+}
+
+p,h1,h2,h3,h4 {
+	color: #ffffff;
+	text-align: left;
+	font-family: sans-serif;
+}
+
+
+
+#sidebar {
+	float: left;
+	position: absolute;
+	border: 1px solid white;
+	padding: 10px;
+}
+
+#sidebar-content {
+	border: 1px solid white;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: -30px;	
+}
